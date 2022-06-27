@@ -142,6 +142,7 @@ for charindex in range(wordlength):
     # finally decode the received binary into ascii
     decodedbits = decodedbits.reshape((-1,bitsperchar))
     decodedint = np.packbits(decodedbits)
+    decodedint=decodedint[0] #Convert from np.ndarry to integer
     decodedword.append(chr(decodedint))
 
 decodedword = ''.join([str(i) for i in decodedword])
