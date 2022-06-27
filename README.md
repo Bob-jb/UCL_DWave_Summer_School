@@ -20,7 +20,7 @@ Complete the following steps to start all tasks in this repo:
 
 ![Setup 2](choosing_project2.JPG)
 
-4. Launch the D-Wave IDE with this repo by pasting the following link into your browser: ```https://ide.dwavesys.io/#https://github.com/dtoconnor/UCL_DWave_Summer_School```
+4. Launch the D-Wave IDE with this repo by pasting the following link into your browser: ```https://ide.dwavesys.io/#https://github.com/Bob-jb/UCL_DWave_Summer_School```
 
 ## Task 1: GUI
 ### Basic Operations
