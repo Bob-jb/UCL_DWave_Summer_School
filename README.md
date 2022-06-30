@@ -11,16 +11,9 @@ Where h and J are the spin bias and couplings respectively. Using Python and the
 
 ## Setup
 Complete the following steps to start all tasks in this repo:
-1. Login to your Leap Account: ```https://cloud.dwavesys.com/leap/```
-2. Look for the projects tab indicated below. If this does not appear, please check your email for an invitation to this project (including junk/spam folders).
+1. Login to your Leap Account: ```https://cloud.dwavesys.com/leap/``` (create an account if you don't already have one)
 
-![Setup 1](choosing_project1.JPG)
-
-3. Under the projects tab should be the UCL Summer School 2021 project. Select this project before completing step 4.
-
-![Setup 2](choosing_project2.JPG)
-
-4. Launch the D-Wave IDE with this repo by pasting the following link into your browser: ```https://ide.dwavesys.io/#https://github.com/Bob-jb/UCL_DWave_Summer_School```
+2. Launch the D-Wave IDE with this repo by pasting the following link into your browser: ```https://ide.dwavesys.io/#https://github.com/Bob-jb/UCL_DWave_Summer_School```
 
 ## Task 1: GUI
 ### Basic Operations
